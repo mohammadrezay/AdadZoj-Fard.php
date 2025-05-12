@@ -1,0 +1,1 @@
+# AdadZoj-Fard.php
